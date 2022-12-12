@@ -1,0 +1,22 @@
+# for i in range(1,11):
+#     if i == 5:
+#         break
+#     print(i)
+
+
+
+# continue
+# print 1 to 10 , but not 5
+1,2,3,4,5,6,7,8,9,10
+for i in range(1,11):
+    if i ==5:
+        continue
+    print(i)
+
+
+# a = input("enter\t:")
+# sum = 0
+# for i in range(len(a)):
+#     sum = sum + int(a[i])
+# print(sum)
+
